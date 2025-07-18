@@ -1,30 +1,47 @@
-# 🌦 Weather App
+# 🌦️ Weather Wonders
 
-A simple weather app built using HTML, CSS, and JavaScript that shows real-time weather using the OpenWeatherMap API.
+Welcome to **Weather Wonders** — a beautifully designed weather app that gives you a sleek, stylish, and smooth weather experience. Currently using dummy data, but built ready for real-time weather APIs like OpenWeatherMap.
 
-## Features
-
-- Get current weather by city name
-- Displays temperature, conditions, and wind speed
-- Responsive and clean UI
-
-## Tech Stack
-
-- HTML
-- CSS
-- JavaScript
-- [OpenWeatherMap API](https://openweathermap.org/api)
-
-## How to Run
-
-1. Clone the repo
-2. Replace `"YOUR_API_KEY"` in `script.js` with your actual OpenWeatherMap API key
-3. Open `index.html` in your browser
-
-## Screenshot
-
-![Screenshot](screenshot.png) <!-- optional -->
+![Weather Wonders Screenshot](./preview.png)
 
 ---
 
-⭐ Feel free to fork and improve!
+## 🚀 Features
+
+- 🔍 Search for any city
+- 🎨 Gorgeous modern UI
+- 🌤️ Weather icons & animated background
+- 📱 Mobile responsive
+- 📡 API-ready structure (OpenWeatherMap support)
+- 🚧 Currently shows **dummy weather data** (for design showcase)
+
+---
+
+## 🛠️ Tech Stack
+
+- **HTML5**  
+- **CSS3**  
+- **JavaScript (Vanilla)**
+
+---
+
+## 💡 How to Use
+
+1. Clone or download the repo
+2. Open `index.html` in your browser
+3. Type a city name → Click search → See beautiful weather data
+
+> 🔧 Want real-time weather?
+> - Get free API key from [openweathermap.org](https://openweathermap.org/)
+> - Paste it inside `script.js` in place of the dummy block
+
+---
+
+## 📸 Preview
+
+![Weather App Preview](./preview2.png)
+
+---
+
+## 📁 Folder Structure
+
