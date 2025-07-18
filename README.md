@@ -31,17 +31,4 @@ Welcome to **Weather Wonders** — a beautifully designed weather app that gives
 2. Open `index.html` in your browser
 3. Type a city name → Click search → See beautiful weather data
 
-> 🔧 Want real-time weather?
-> - Get free API key from [openweathermap.org](https://openweathermap.org/)
-> - Paste it inside `script.js` in place of the dummy block
-
----
-
-## 📸 Preview
-
-![Weather App Preview](./preview2.png)
-
----
-
-## 📁 Folder Structure
 
